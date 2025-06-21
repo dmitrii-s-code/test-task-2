@@ -14,7 +14,7 @@ Layout requirements:
   10. Use raster images and backgrounds in WEBP format. When exporting,
   focus on a high-quality, clear picture with the smallest possible kb size.
 
-You can view the web page here: https://dmitrii-s-frontend.github.io/test-task-2/
+You can view the web page here: https://dmitrii-s-code.github.io/test-task-2/
 
 DISCLAIMER
 1. This project is made following the terms: https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#educational-exercises
